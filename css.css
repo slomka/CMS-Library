@@ -1,0 +1,84 @@
+body {
+    line-height: 12px;
+    font-family: Verdana, Tahoma;
+    font-size: 11px;
+    cursor: default;
+    color: #484848;
+    background:  #fff;
+}
+#logo{
+	float:center;
+	background-color: #0099FF;
+	width: 900px;
+	height: 60px;
+	margin-bottom: 15px;
+	margin-top: -10px;
+	border-radius: 6px;
+	box-shadow:#000 0px 0px 5px ;
+	color: #fff;
+	font-size: 25px;
+	padding-top:15px;
+	font-family: tahoma;
+}
+#admin{
+	font-size:14px;
+	font-weight:bold;
+	float:left;
+	padding-left: 20px;
+}
+#header{
+		
+		text-align:center;
+		position:fixed;
+}
+#menu{
+	width: 880px;
+	font-size: 11px;
+}
+#menu_menu{
+	width: 880px;
+	font-size: 11px;
+	margin-bottom:50px;
+}
+#footer{
+		width:100%;
+		text-align:center;
+		position:fixed;
+}
+		
+td{ text-align:center;
+	border: solid 1px #ccc;
+	background: #FFFFFC;
+	font-size: 12px;
+	padding: 12px;
+ }	
+a{ text-decoration:none; color:#C34A2C;}	
+#box{
+    text-align:left;
+	font-weight:bold;
+    width: 900px;
+	border-radius: 2px;
+	background-color: #FFFFFC;
+}	
+#info{
+	color:red;
+	top:5px;
+	position:fixed;
+}
+a:hover {
+	color:#fffccc;
+	text-decoration:none;
+	font-weight:bold;
+}
+#panel{
+	margin:auto;
+	float:center;
+	font-size:13px;
+	color:#5E5A80;
+	margin-top: 50px;
+}
+.front{
+background: red;
+width:900px;
+height:1000px;
+}
